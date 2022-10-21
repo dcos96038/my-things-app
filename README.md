@@ -16,5 +16,5 @@ Life organizer (?)
 
 First you will need to create a `.env` file using the `.env.example` file.
 
-You will have to add your `DISCORD_CLIENT_ID` and `DISCORD_CLIENT_SECRET` and it should work out of the box.
+You will have to add your `DISCORD_CLIENT_ID` and `DISCORD_CLIENT_SECRET` and auth should work.
 
