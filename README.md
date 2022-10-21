@@ -5,8 +5,9 @@ Life organizer (?)
 ## TODO
 
 - [x] Login View
-- [ ] Login with Discord
-- [ ] Home Page protected
+- [x] Login with Discord
+- [x] Home Page protected
+- [ ] Navbar
 - [ ] Sidebar Menu
 - [ ] Dashboard on Home Page
 - [ ] Kanban Board
