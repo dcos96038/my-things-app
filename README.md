@@ -7,7 +7,7 @@ Life organizer (?)
 - [x] Login View
 - [x] Login with Discord
 - [x] Home Page protected
-- [ ] Navbar
+- [x] Navbar
 - [ ] Sidebar Menu
 - [ ] Dashboard on Home Page
 - [ ] Kanban Board

@@ -1,5 +1,4 @@
 import React from "react";
-import {SlNotebook} from "react-icons/sl";
 import {IoIosLogOut} from "react-icons/io";
 import {AiOutlineMenu} from "react-icons/ai";
 
@@ -18,7 +17,6 @@ export const Navbar = ({username}: Props) => {
       </button>
       <div className="flex items-center gap-1">
         <span>MyThingsApp</span>
-        <SlNotebook size={18} />
       </div>
       <div className="flex-1" />
       <div className="flex items-center gap-10">
